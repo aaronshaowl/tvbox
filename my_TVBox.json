@@ -1,8 +1,1 @@
-{
-  "store": [
-    {
-      "name": "qist",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
-    }
-  ]
-}
+https://cdn.jsdelivr.net/gh/qist/tvbox@master/jsm.json
