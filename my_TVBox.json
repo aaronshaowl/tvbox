@@ -1,12 +1,8 @@
 {
   "store": [
     {
-      "name": "qist1配置",
+      "name": "qist配置",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json"
-    },
-    {
-      "name": "qist2配置",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/master/0821.json"
     }
   ]
 }
