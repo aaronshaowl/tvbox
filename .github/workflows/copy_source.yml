@@ -1,2 +1,2 @@
-URL=$(cat source.txt)
+URL=$(cat my_source.txt)
 curl -L "$URL" -o my_TVBox.json
