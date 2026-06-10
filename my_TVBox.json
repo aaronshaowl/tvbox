@@ -13,12 +13,12 @@
   "lives": [
     {
       "name": "电视直播",
-      "url": "https://raw.githubusercontent.com/ashaocn/tvbox/master/live.m3u",
+      "url": "https://raw.githubusercontent.com/ashaocn/tvbox/master/live1.m3u",
       "type": 0
     },
     {
       "name": "网络电台",
-      "url": "https://raw.githubusercontent.com/ashaocn/tvbox/master/radio.m3u",
+      "url": "https://raw.githubusercontent.com/ashaocn/tvbox/master/radio1.m3u",
       "type": 0
     }
   ],
