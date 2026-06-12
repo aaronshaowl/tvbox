@@ -12,33 +12,14 @@
   ],
   "lives": [
     {
-      "group": "zg",
-      "channels": [
-        {
-          "name": "CCTV4K超高清",
-          "urls": [
-            "http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227623/index.m3u8?servicetype=1"
-          ]
-        },
-        {
-          "name": "CCTV-4中文国际",
-          "urls": [
-            "http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221226176/index.m3u8?servicetype=1"
-          ]
-        },
-        {
-          "name": "CCTV-13新闻",
-          "urls": [
-            "http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227333/index.m3u8?servicetype=1"
-          ]
-        },
-        {
-          "name": "东方卫视",
-          "urls": [
-            "http://ltcottcdnfh.ln.chinamobile.com/PLTV/11/224/3221227476/index.m3u8?servicetype=1"
-          ]
-        }
-      ]
+      "name": "电视直播",
+      "url": "https://raw.githubusercontent.com/ashaocn/tvbox/master/live1.m3u",
+      "type": 0
+    },
+    {
+      "name": "网络电台",
+      "url": "https://raw.githubusercontent.com/ashaocn/tvbox/master/radio1.m3u",
+      "type": 0
     }
   ],
   "parses": [
