@@ -875,17 +875,15 @@ AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 
 
 广播,#genre#
-CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
-CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
-中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-上海东广新闻台,http://lhttp.qingting.fm/live/275/64k.mp3
-上海经典947音乐广播,http://lhttp.qingting.fm/live/267/64k.mp3
-上海动感101音乐广播,http://lhttp.qingting.fm/live/274/64k.mp3
 CNR交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 CNR音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 CNR经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-CRI轻松调频 ,http://sk.cri.cn/915.m3u8
+CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
+CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
+CRI轻松调频,http://sk.cri.cn/915.m3u8
+上海东广新闻台,http://lhttp.qingting.fm/live/275/64k.mp3
+上海经典947音乐广播,http://lhttp.qingting.fm/live/267/64k.mp3
+上海动感101音乐广播,http://lhttp.qingting.fm/live/274/64k.mp3
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
