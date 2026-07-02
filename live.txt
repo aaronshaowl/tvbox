@@ -874,7 +874,7 @@ AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 
 
 
-广播,#genre#
+广播电台,#genre#
 CNR交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
@@ -887,3 +887,10 @@ CRI轻松调频,http://sk.cri.cn/915.m3u8
 上海经典947音乐广播,http://lhttp.qingting.fm/live/267/64k.mp3
 上海动感101音乐广播,http://lhttp.qingting.fm/live/274/64k.mp3
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,CNR中国之声2
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1,CNR经济之声2
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1,CRI 轻松调频2
+http://sk.cri.cn/915.m3u8
