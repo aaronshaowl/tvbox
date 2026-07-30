@@ -2,4 +2,5 @@
 CCTV13,http://112.27.235.94:8000/hls/14/index.m3u8
 CGTN英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 财经频道,#genre#
-上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+第一财经,http://ls.qingting.fm/live/276.m3u8
